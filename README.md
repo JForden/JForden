@@ -18,7 +18,13 @@ From **embedded systems** to **AI-enhanced solutions**, I apply **statistical mo
 ## 🚀 Skills
 
 ### Languages & Tools:
-🐍 Python | ☕ Java | 🔧 C/C++ | ⚙️ ARM | 🖥️ RISC-V | ⚛️ React.js | 🐳 Docker | 🔗 Flask | ☁️ AWS | 📊 R | 📈 SQL
+
+#### 💪 Proficient:
+- 🐍 Python | 🔗 Flask | ⚛️ React.js | 🐳 Docker | 📈 SQL | 📊 SQLAlchemy | Ollama | Piston
+
+#### 🚀 Knowledgeable:
+- ☕ Java | 🔧 C/C++ | ⚙️ ARM | 🖥️ RISC-V | ☁️ AWS | 📊 R | AI-Modeling | 🔧 TensorFlow | 📊 PyTorch
+
 
 ### What I Do:
 - 🌐 **Full-Stack Development**: Flask, React.js, Docker, Microservices, RESTful APIs, AWS, CI/CD pipelines  
