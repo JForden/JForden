@@ -8,12 +8,10 @@ I'm Jack, an ABD **Computer Science** doctoral candidate with over 6 years of ex
 - Designing frameworks to maximize **student learning** and **academic achievement**
 
 ## 🌱 Learning:  
-Always expanding my skills, currently diving deeper into **RISC-V**, **advanced AI integration**, and **educational technology**.
-
-## 🎓 Expertise:  
-From **embedded systems** to **AI-enhanced solutions**, I apply **statistical modeling**, **A/B testing**, and **causal inference** to build impactful tech.
-
----
+  - I expect to finish PRSM 2 certification as time allows
+  - I am looking forward to starting a course on getting certified in Tablau
+  - I am looking forward to finding a course to get certified in Project Management
+    
 
 ## 🚀 Skills
 
