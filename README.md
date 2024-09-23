@@ -1,4 +1,21 @@
+         ____.  _____  _________  ____  __. ___________________ __________________  ___________ _______   
+        |    | /  _  \ \_   ___ \|    |/ _| \_   _____/\_____  \\______   \______ \ \_   _____/ \      \  
+        |    |/  /_\  \/    \  \/|      <    |    __)   /   |   \|       _/|    |  \ |    __)_  /   |   \ 
+    /\__|    /    |    \     \___|    |  \   |     \   /    |    \    |   \|    `   \|        \/    |    \
+    \________\____|__  /\______  /____|__ \  \___  /   \_______  /____|_  /_______  /_______  /\____|__  /
+                     \/        \/        \/      \/            \/       \/        \/        \/         \
+
+
+
+
+
 # Hi there 👋
+
+
+
+
+
+
 
 I'm Jack, an ABD **Computer Science** doctoral candidate with over 6 years of expertise in **data science**, **AI**, **statistical modeling**, and **full-stack engineering**. Currently pursuing my PhD at **Marquette University**, I'm passionate about leading innovative projects and cutting-edge research.
 
