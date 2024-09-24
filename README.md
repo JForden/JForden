@@ -19,8 +19,8 @@
    - [Projects](#projects)
    - [Publications](#publications)
 5. [Contact Information](#reach-me-at)
-6. [Achievements](#leadership)
-7. [Fun Fact](#awards)
+6. [Leadership](#leadership)
+7. [Awards and Misc](#awards)
 
 
 
