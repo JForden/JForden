@@ -61,10 +61,19 @@ I'm Jack Forden, an ABD **Computer Science** doctoral candidate with over 6 year
 
 ### Projects
 
-- **TA-Bot**: Designed and deployed one of the most flexible assessment systems using Flask, Docker, SQL, SQLAlchemy, Azure Authentication, and React. This has been my main focus as I develop frameworks designed to increase retention rates, and thus tuition. To date, TA-Bot has reduced withdrawal rates in introductory courses at Marquette University by 50%, leading to historic retention rates and an additional $3,000,000 in tuition staying in the CS department. I have published multiple works on this, see publications.        
+- **TA-Bot**: Designed and deployed one of the most flexible assessment systems using Flask, Docker, SQL, SQLAlchemy, Azure Authentication, and React. This has been my main focus as I develop frameworks designed to increase retention rates, and thus tuition. To date, TA-Bot has reduced withdrawal rates in introductory courses at Marquette University by 50%, leading to historic retention rates and an additional $3,000,000 in tuition staying in the CS department. I have published multiple works on this, see publications.  [TA-Bot](https://github.com/JForden/AutoTA)
 
 - Co-developed the first **RISC-V "Mini" OS** under the leadership of [Alex Gebhard](https://github.com/a1g3) for consumer hardware [Github](https://github.com/JForden/riscv-xinu) Read more about it [SIGCSE 2024](https://dl.acm.org/doi/10.1145/3626252.3630959)
 - I developed a RISC-V port of the MiniJava Compiler published by [Appel and Jens Palsberg](https://www.amazon.com/Modern-Compiler-Implementation-Andrew-Appel/dp/052182060X/ref=pd_lpo_sccl_3/142-7048636-9321833?pd_rd_w=btdr6&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=P2W5KH3DBENNKM59H8G5&pd_rd_wg=0vDv7&pd_rd_r=a85c40af-acbb-4e51-82a0-2c36220da8c7&pd_rd_i=052182060X&psc=1). While I would love to share this GitHub repository publicly, I am currently the instructor for Marquette COSC 4400 Compiler Construction, where I am leading students in solving this exact issue! [Publication to appear in SPLASH - JENSFEST](https://2024.splashcon.org/home/jensfest-2024).
+
+#### Side Projects - Unrelated to Research Objectives
+
+- A port to the [Piston Code Runner](https://github.com/JForden/piston) augmented to handle Multi-File Java submissions
+- A Mobile application developed for [88.9 Milwaukee](https://github.com/JForden/Multi_Media)
+- A currated list of most Pylint Errors designed specificlly to help novice students resolve code errors [Github](https://github.com/JForden/pylint-errors)
+
+
+
 
 - Locally run and hosted AI-Assessment frameworks [ Publication to appear in FIE](https://2024.fie-conference.org/)
 
