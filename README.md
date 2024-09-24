@@ -16,6 +16,8 @@
      - [Proficient](#proficient)
      - [Knowledgeable](#knowledgeable)
    - [What I Do](#what-i-do)
+   - [Projects](#projects)
+   - [Publications](#publications)
 5. [Contact Information](#reach-me-at)
 6. [Achievements](#achievements)
 7. [Fun Fact](#fun-fact)
@@ -30,7 +32,6 @@ I'm Jack Forden, an ABD **Computer Science** doctoral candidate with over 6 year
 
 ## What I'm Working On:
 - I currently Develop and Maintain the research automated assessment system at Marquette University, TA-Bot - Check Publications
-- Co-developing the first **RISC-V "Mini" OS** for consumer hardware  - Check Publications
 - Creating an **AI-driven automated grading system** that has processed over 1.17 million API requests  - Check Publications
 - Designing frameworks to maximize **student learning** and **academic achievement** - Check Publications
 
@@ -57,6 +58,44 @@ I'm Jack Forden, an ABD **Computer Science** doctoral candidate with over 6 year
 - 📊 **Statistical Modeling & Data Science**: Causal inference, A/B testing, hypothesis testing, biostatistics  
 - 🤖 **AI & Machine Learning**: LLM evaluation and deployment, NLP, AI decision support systems, open-source LLM integration  
 - 📚 **Education Technology**: Developing frameworks for student engagement and retention, gamification in education
+
+### Projects
+
+- **TA-Bot**: Designed and deployed one of the most flexible assessment systems using Flask, Docker, SQL, SQLAlchemy, Azure Authentication, and React. This has been my main focus as I develop frameworks designed to increase retention rates, and thus tuition. To date, TA-Bot has reduced withdrawal rates in introductory courses at Marquette University by 50%, leading to historic retention rates and an additional $3,000,000 in tuition staying in the CS department. I have published multiple works on this, see publications.        
+
+- Co-developed the first **RISC-V "Mini" OS** under the leadership of [Alex Gebhard](https://github.com/a1g3) for consumer hardware [Github](https://github.com/JForden/riscv-xinu) Read more about it [SIGCSE 2024](https://dl.acm.org/doi/10.1145/3626252.3630959)
+- I developed a RISC-V port of the MiniJava Compiler published by [Appel and Jens Palsberg](https://www.amazon.com/Modern-Compiler-Implementation-Andrew-Appel/dp/052182060X/ref=pd_lpo_sccl_3/142-7048636-9321833?pd_rd_w=btdr6&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=P2W5KH3DBENNKM59H8G5&pd_rd_wg=0vDv7&pd_rd_r=a85c40af-acbb-4e51-82a0-2c36220da8c7&pd_rd_i=052182060X&psc=1). While I would love to share this GitHub repository publicly, I am currently the instructor for Marquette COSC 4400 Compiler Construction, where I am leading students in solving this exact issue! [Publication to appear in SPLASH - JENSFEST](https://2024.splashcon.org/home/jensfest-2024).
+
+- Locally run and hosted AI-Assessment frameworks [ Publication to appear in FIE](https://2024.fie-conference.org/)
+
+### Publications
+
+#### In Peer Review Process (2024)
+
+- **Jack Forden**, Michael Cullen, and Dennis Brylow. 2024. *Paced to Perfection: The Impact of Automated Assessment Rewards for Attending Office Hours*. Research Paper submitted to SIGCSE 2025 on July 15, 2024. Acceptance Notification: September 30, 2024.
+
+- **Jack Forden**, Matthew Schneider, Alexander Gebhard, Md. Tahmidul Islam Molla, and Dennis Brylow. 2024. *Unlocking Student Potential With TA-Bot: Timely Submissions and Improved Code Style*. Research Paper submitted to SIGCSE 2025 on July 15, 2024. Acceptance Notification: September 30, 2024.
+
+#### 2024
+
+- Dennis J. Bouvier, Ellie Lovellette, Eddie Antonio Santos, Brett A. Becker, Tom Crick, Venu G. Dasigi, **Jack Forden**, Olga Glebova, Swaroop Joshi, Stan Kurkovsky, and Seán Russell. 2023. *Teaching Students To Use Programming Error Messages*. In Proceedings of the ACM Conference on Global Computing Education Vol 2 (CompEd 2023), 207–208. Association for Computing Machinery. *To Appear.*
+
+- Samuel B. Mazzone, **Jack Forden**, and Dennis Brylow. 2024. *Exploring the Potential of Locally Run Large Language (AI) Models for Automated Grading in Introductory Computer Science Courses*. Proceedings of the 2024 Frontiers in Education (FIE 2024). Association for Computing Machinery, Washington DC, USA. *To Appear.*
+
+- **Jack Forden**, Alexander Gebhard, Maverick Berner, and Dennis Brylow. 2024. *MiniJava on RISC-V: A Game of Global Compilers Domination*. Proceedings of the Workshop Dedicated to Jens Palsberg on the Occasion of His 60th Birthday (JENSFEST 2024). Association for Computing Machinery, New York, NY, USA. *To Appear.*
+
+- Alexander Gebhard, **Jack Forden**, Oliver Laufenberg, and Dennis Brylow. 2024. *Using Embedded Xinu to Teach Operating Systems on Baremetal RISC-V*. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2024). Association for Computing Machinery, New York, NY, USA, 380–386. [https://doi.org/10.1145/3626252.3630959](https://doi.org/10.1145/3626252.3630959)
+
+#### 2023
+
+- Dennis J. Bouvier, Ellie Lovellette, Eddie Antonio Santos, Brett A. Becker, Tom Crick, Venu G. Dasigi, **Jack Forden**, Olga Glebova, Swaroop Joshi, Stan Kurkovsky, and Seán Russell. 2023. *Teaching Students To Use Programming Error Messages*. In Proceedings of the ACM Conference on Global Computing Education Vol 2 (CompEd 2023). Association for Computing Machinery, New York, NY, USA, 207–208. [https://doi.org/10.1145/3617650.3624950](https://doi.org/10.1145/3617650.3624950)
+
+- **Jack Forden**, Alexander Gebhard, and Dennis Brylow. 2023. *Experiences with TA-Bot in CS1*. In Proceedings of the ACM Conference on Global Computing Education Vol 1 (CompEd 2023). Association for Computing Machinery, New York, NY, USA, 57–63. [https://doi.org/10.1145/3576882.3617930](https://doi.org/10.1145/3576882.3617930)
+
+- **Jack Forden**, Alexander Gebhard, and Dennis Brylow. 2023. *Dynamic Rate Limiting with TA-Bot in CS1*. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE 2023). Association for Computing Machinery, New York, NY, USA, 1330. [https://doi.org/10.1145/3545947.3576276](https://doi.org/10.1145/3545947.3576276)
+
+
+
 
 ---
 
