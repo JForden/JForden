@@ -37,7 +37,7 @@ I'm Jack Forden, an ABD **Computer Science** doctoral candidate with over 6 year
 
 ## Learning:  
   - I expect to finish PRSM 2 certification as time allows
-  - I am looking forward to starting a course on getting certified in Tablau
+  - I am looking forward to starting a course on getting certified in Tableau
   - I am looking forward to finding a course to get certified in Project Management
     
 
@@ -55,7 +55,7 @@ I'm Jack Forden, an ABD **Computer Science** doctoral candidate with over 6 year
 ### What I Do:
 - 🌐 **Full-Stack Development**: Flask, React.js, Docker, Microservices, RESTful APIs, AWS, CI/CD pipelines  
 - 🛠️ **Low-Level System Design**: Process scheduling, memory management, assembly programming, RTOS development  
-- 📊 **Statistical Modeling & Data Science**: Causal inference, A/B testing, hypothesis testing, biostatistics  
+- 📊 **Statistical Modeling & Data Science**: Causal inference, A/B testing, hypothesis testing, biostatistics, SQL, R, TensorFlow
 - 🤖 **AI & Machine Learning**: LLM evaluation and deployment, NLP, AI decision support systems, open-source LLM integration  
 - 📚 **Education Technology**: Developing frameworks for student engagement and retention, gamification in education
 
