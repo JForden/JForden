@@ -75,6 +75,7 @@ I'm Jack Forden, an ABD **Computer Science** doctoral candidate with over 6 year
 - A port to the [Piston Code Runner](https://github.com/JForden/piston) augmented to handle Multi-File Java submissions
 - A Mobile application developed for [88.9 Milwaukee](https://github.com/JForden/Multi_Media)
 - A currated list of most Pylint Errors designed specificlly to help novice students resolve code errors [Github](https://github.com/JForden/pylint-errors)
+- Helped to Develop and document [competition software](https://github.com/acm-mu/abacus) used in the **largest** HighSchool Programming competition in Wisconsin by thousands of students and hundreds of schools.
 
 ### Publications
 
@@ -110,5 +111,43 @@ I'm Jack Forden, an ABD **Computer Science** doctoral candidate with over 6 year
 📫 **Reach me at**: j.r.forden@gmail.com  
 🌐 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/jack-forden-a1a45920b)  
 💻 **GitHub**: [GitHub Profile](https://github.com/JForden)  
-🏆 **Achievements**: Led Wisconsin's largest student-run high school programming competition  
-⚡ **Fun Fact**: I orchestrated a programming competition involving over 270 schools!
+
+### Leadership Experiences
+
+#### Vice President | *Association for Computing Machinery (ACM) Marquette* (2022)
+- Collaborated with members to enhance programming and networking events.
+- Facilitated workshops to help students develop technical skills and industry knowledge.
+- Assisted in recruiting new members to grow the ACM chapter.
+
+#### Vice President | *International Honor Society for the Computing and Information Disciplines, Marquette* (2022)
+- Promoted academic excellence and community engagement among computing students.
+- Organized events to support professional development and networking opportunities.
+- Mentored peers in preparing for internships and career opportunities.
+
+#### Executive Board Member | *Sigma Phi Epsilon, Marquette* (2020 -- 2021)
+- Contributed to the strategic planning and execution of fraternity events and initiatives.
+- Promoted community service and leadership development among members.
+
+#### Executive Board Member | *Multi-Cultural Organization* (2019)
+- Facilitated cultural awareness events to promote diversity and inclusion on campus.
+- Collaborated with other organizations to enhance community outreach efforts.
+
+#### 1st Place | *Great Lakes Affiliate of College and University Residence Halls Leadership* (2019)
+- Recognized for outstanding leadership and contributions to residence hall activities.
+- Demonstrated exceptional teamwork and event planning skills during statewide competition.
+
+
+### Awards
+
+#### Co-author | *US Department of Education GAANN Grant* (2023)
+- Co-authored a $600,000 grant supporting advanced educational initiatives in computing.
+
+#### Organizer | *Wisconsin's Largest Student-Run High School Programming Competition* (2023)
+- Orchestrated an event involving over 270 high schools across Wisconsin.
+
+#### Dean's List | *Marquette University* (2019 -- Present)
+- Consistently recognized for academic excellence throughout my undergraduate studies.
+
+#### Workshop Leader | *Professional Development for Computer Science Educators* (2023)
+- Led workshops to enhance teaching strategies for computer science educators.
+
