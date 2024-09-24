@@ -75,7 +75,7 @@ I'm Jack Forden, an ABD **Computer Science** doctoral candidate with over 6 year
 - A port to the [Piston Code Runner](https://github.com/JForden/piston) augmented to handle Multi-File Java submissions
 - A Mobile application developed for [88.9 Milwaukee](https://github.com/JForden/Multi_Media)
 - A currated list of most Pylint Errors designed specificlly to help novice students resolve code errors [Github](https://github.com/JForden/pylint-errors)
-- Helped to Develop and document [competition software](https://github.com/acm-mu/abacus) used in the **largest** HighSchool Programming competition in Wisconsin by thousands of students and hundreds of schools.
+- Helped to develop and document [competition software](https://github.com/acm-mu/abacus) used in the **largest** HighSchool Programming competition in Wisconsin by thousands of students and hundreds of schools.
 
 ### Publications
 
