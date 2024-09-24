@@ -19,8 +19,8 @@
    - [Projects](#projects)
    - [Publications](#publications)
 5. [Contact Information](#reach-me-at)
-6. [Achievements](#achievements)
-7. [Fun Fact](#fun-fact)
+6. [Achievements](#leadership)
+7. [Fun Fact](#awards)
 
 
 
@@ -112,7 +112,7 @@ I'm Jack Forden, an ABD **Computer Science** doctoral candidate with over 6 year
 🌐 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/jack-forden-a1a45920b)  
 💻 **GitHub**: [GitHub Profile](https://github.com/JForden)  
 
-### Leadership Experiences
+### Leadership
 
 #### Vice President | *Association for Computing Machinery (ACM) Marquette* (2022)
 - Collaborated with members to enhance programming and networking events.
