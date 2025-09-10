@@ -28,10 +28,10 @@
 
 
 Hello 👋
-I'm Jack Forden, an ABD **Computer Science** doctoral candidate with over 6 years of expertise in **data science**, **AI**, **statistical modeling**, and **full-stack engineering**. Currently pursuing my PhD at **Marquette University**, I'm passionate about leading innovative projects and cutting-edge research.
+I'm Jack Forden, I have over 7 years of expertise in **data science**, **AI**, **statistical modeling**, and **full-stack engineering**. I finished my PhD at **Marquette University** in 2025, I'm passionate about leading innovative projects and cutting-edge research. You can find me helping students at Carroll University!
 
 ## What I'm Working On:
-- I currently Develop and Maintain the research automated assessment system at Marquette University, TA-Bot - Check Publications
+- I currently Develop and Maintain the research automated assessment system at Marquette and Caroll University, TA-Bot - Check Publications
 - Creating an **AI-driven automated grading system** that has processed over 1.17 million API requests  - Check Publications
 - Designing frameworks to maximize **student learning** and **academic achievement** - Check Publications
 
@@ -72,6 +72,10 @@ I'm Jack Forden, an ABD **Computer Science** doctoral candidate with over 6 year
 
 #### Side Projects - Unrelated to Research Objectives
 
+- [BA-Hub](https://ba-hub.net/) an online platform that processes and assesses user matches for the online game [Broken Arrow](https://store.steampowered.com/app/1604270/Broken_Arrow/).
+
+The website has 5000 monthly visitors(as of 2025), has processed over 3.5 million multiplayer matches, and has produces the [data reports](https://store.steampowered.com/news/app/1604270?emclan=103582791470034480&emgid=824840894153752762) that have shaped the meta of the game itself.            
+
 - A port to the [Piston Code Runner](https://github.com/JForden/piston) augmented to handle Multi-File Java submissions
 - A Mobile application developed for [88.9 Milwaukee](https://github.com/JForden/Multi_Media)
 - A currated list of most Pylint Errors designed specificlly to help novice students resolve code errors [Github](https://github.com/JForden/pylint-errors)
@@ -79,7 +83,7 @@ I'm Jack Forden, an ABD **Computer Science** doctoral candidate with over 6 year
 
 ### Publications
 
-#### In Peer Review Process (2024)
+#### 2025
 
 - **Jack Forden**, Michael Cullen, and Dennis Brylow. 2024. *Paced to Perfection: The Impact of Automated Assessment Rewards for Attending Office Hours*. Research Paper submitted to SIGCSE 2025 on July 15, 2024. Acceptance Notification: September 30, 2024.
 
