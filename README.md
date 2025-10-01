@@ -28,7 +28,7 @@
 
 
 Hello 👋
-I'm Jack Forden, I have over 7 years of expertise in **data science**, **AI**, **statistical modeling**, and **full-stack engineering**. I finished my PhD at **Marquette University** in 2025, I'm passionate about leading innovative projects and cutting-edge research. You can find me helping students at Carroll University!
+I'm Jack Forden, I have over 7 years of expertise in **data science**, **AI**, **statistical modeling**, and **full-stack engineering**. I finished my PhD at **Marquette University** in 2025, I'm passionate about leading innovative projects and cutting-edge research. You can find me helping students at **Carroll University** in Waukesha Wisconsin!
 
 ## What I'm Working On:
 - I currently Develop and Maintain the research automated assessment system at Marquette and Caroll University, TA-Bot - Check Publications
