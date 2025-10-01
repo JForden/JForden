@@ -74,7 +74,7 @@ I'm Jack Forden, I have over 7 years of expertise in **data science**, **AI**, *
 
 - [BA-Hub](https://ba-hub.net/) an online platform that processes and assesses user matches for the online game [Broken Arrow](https://store.steampowered.com/app/1604270/Broken_Arrow/).
 
-The website has 5000 monthly visitors(as of 2025), has processed over 3.5 million multiplayer matches, and has produces the [data reports](https://store.steampowered.com/news/app/1604270?emclan=103582791470034480&emgid=824840894153752762) that have shaped the meta of the game itself.            
+The website has 5000 monthly visitors(as of 2025), has processed over 3.5 million multiplayer matches, and has helped produced some [data reports](https://store.steampowered.com/news/app/1604270?emclan=103582791470034480&emgid=824840894153752762) that have shaped the meta of the game itself.            
 
 - A port to the [Piston Code Runner](https://github.com/JForden/piston) augmented to handle Multi-File Java submissions
 - A Mobile application developed for [88.9 Milwaukee](https://github.com/JForden/Multi_Media)
