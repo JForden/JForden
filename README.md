@@ -31,9 +31,12 @@ Hello 👋
 I'm Jack Forden, I have over 7 years of expertise in **data science**, **AI**, **statistical modeling**, and **full-stack engineering**. I finished my PhD at **Marquette University** in 2025, I'm passionate about leading innovative projects and cutting-edge research. You can find me helping students at **Carroll University** in Waukesha Wisconsin!
 
 ## What I'm Working On:
-- I currently Develop and Maintain the research automated assessment system at Marquette and Caroll University, TA-Bot - Check Publications
+- I currently Develop and Maintain the research automated assessment system at Marquette and Carroll University, TA-Bot - Check Publications
 - Creating an **AI-driven automated grading system** that has processed over 1.17 million API requests  - Check Publications
 - Designing frameworks to maximize **student learning** and **academic achievement** - Check Publications
+- Teaching introductory CS at Carroll University and developing course infrastructure and tooling
+- Contributing to [reciprocal.reviews](https://reciprocal.reviews), an open-source web application for making peer review more sustainable
+- Authoring a textbook on quantitative finance and AI-driven trading systems for students new to the domain
 
 ## Learning:  
   - I expect to finish PRSM 2 certification as time allows
@@ -49,7 +52,7 @@ I'm Jack Forden, I have over 7 years of expertise in **data science**, **AI**, *
 - 🐍 Python | 🔗 Flask | ⚛️ React.js | 📈 SQL | 📊 SQLAlchemy | Ollama | Piston
 
 #### Knowledgeable:
-- ☕ Java | 🔧 C/C++ | ⚙️ ARM | 🖥️ RISC-V | ☁️ AWS | 📊 R | AI-Modeling | 🔧 TensorFlow | 📊 PyTorch, |  🐳 Docker, DBMS Systems | Tablau | Excel
+- ☕ Java | 🔧 C/C++ | ⚙️ ARM | 🖥️ RISC-V | ☁️ AWS | 📊 R | AI-Modeling | 🔧 TensorFlow | 📊 PyTorch, |  🐳 Docker, DBMS Systems | Tablau | Excel | 🟠 Svelte
 
 
 ### What I Do:
@@ -63,10 +66,18 @@ I'm Jack Forden, I have over 7 years of expertise in **data science**, **AI**, *
 
 - **TA-Bot**: Designed and deployed one of the most flexible assessment systems using Flask, Docker, SQL, SQLAlchemy, Azure Authentication, and React. This has been my main focus as I develop frameworks designed to increase retention rates, and thus tuition. To date, TA-Bot has reduced withdrawal rates in introductory courses at Marquette University by 50%, leading to historic retention rates and an additional $3,000,000 in tuition staying in the CS department. I have published multiple works on this, see publications.  [TA-Bot](https://github.com/JForden/AutoTA)
 
+- **TA-Bot at Carroll University** *(Fall 2025)*: Deployed and launched TA-Bot under the [musyslab](https://github.com/musyslab/TA-Bot) organization at Carroll University. Led the initial migration and onboarding effort, enabling the same automated assessment infrastructure that proved successful at Marquette to be used for introductory CS courses at Carroll. The system has been actively maintained and extended by the team throughout the 2025–2026 academic year.
+
 - Co-developed the first **RISC-V "Mini" OS** under the leadership of [Alex Gebhard](https://github.com/a1g3) for consumer hardware [Github](https://github.com/JForden/riscv-xinu) Read more about it [SIGCSE 2024](https://dl.acm.org/doi/10.1145/3626252.3630959)
 - I developed a RISC-V port of the MiniJava Compiler published by [Appel and Jens Palsberg](https://www.amazon.com/Modern-Compiler-Implementation-Andrew-Appel/dp/052182060X/ref=pd_lpo_sccl_3/142-7048636-9321833?pd_rd_w=btdr6&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=P2W5KH3DBENNKM59H8G5&pd_rd_wg=0vDv7&pd_rd_r=a85c40af-acbb-4e51-82a0-2c36220da8c7&pd_rd_i=052182060X&psc=1). While I would love to share this GitHub repository publicly, I am currently the instructor for Marquette COSC 4400 Compiler Construction, where I am leading students in solving this exact issue! [Publication to appear in SPLASH - JENSFEST](https://2024.splashcon.org/home/jensfest-2024).
 
 - Locally run and hosted AI-Assessment frameworks [ Publication to appear in FIE](https://2024.fie-conference.org/)
+
+- **Reciprocal Reviews** *(Spring 2026)*: Contributed to [reciprocal.reviews](https://reciprocal.reviews), an open-source Svelte web application designed to make academic peer review more sustainable. Improved dashboard navigation and keyboard accessibility by replacing custom link components with native anchor elements and enhanced keyboard event handling, fixed vertical resizing behavior, and updated contributor documentation. [GitHub](https://github.com/reciprocalreviews/reciprocalapp)
+
+- **Quantitative Finance & AI Trading Textbook** *(Spring 2026)*: Authored a structured LaTeX textbook targeted at students entering quantitative finance and AI-driven trading systems. The book covers market microstructure, tick data fundamentals, feature engineering, machine learning for price prediction, and leakage-safe backtesting. Written with a "top-down" pedagogical approach—systems thinking first, implementation second—to serve AI-native students who are new to finance. [GitHub](https://github.com/JForden/Q1)
+
+- **Personal Course Website** *(Spring 2026)*: Built and launched a personal course website ([jforden.github.io](https://jforden.github.io)) to serve as a hub for course materials, syllabi, and resources for students at Carroll University. [GitHub](https://github.com/JForden/jforden.github.io)
 
 
 
