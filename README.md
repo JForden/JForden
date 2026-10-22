@@ -28,12 +28,13 @@
 
 
 Hello 👋
-I'm Jack Forden, I have over 7 years of expertise in **data science**, **AI**, **statistical modeling**, and **full-stack engineering**. I finished my PhD at **Marquette University** in 2025, I'm passionate about leading innovative projects and cutting-edge research. You can find me helping students at **Carroll University** in Waukesha Wisconsin!
+I'm Jack Forden, I have over 7 years of expertise in **data science**, **AI**, **statistical modeling**, **security measurement**, and **full-stack engineering**. I finished my PhD at **Marquette University** in 2025, I'm passionate about leading innovative projects and cutting-edge research. You can find me helping students at **Carroll University** in Waukesha Wisconsin!
 
 ## What I'm Working On:
-- I currently Develop and Maintain the research automated assessment system at Marquette and Caroll University, TA-Bot - Check Publications
+- I currently Develop and Maintain the research automated assessment system at Marquette and Carroll University, TA-Bot - Check Publications
 - Creating an **AI-driven automated grading system** that has processed over 1.17 million API requests  - Check Publications
 - Designing frameworks to maximize **student learning** and **academic achievement** - Check Publications
+- Building a **passive internet-measurement pipeline** to track how quickly U.S. nonfederal government websites patch **PHP2Shell** (CVE-2026-109618 / CVE-2026-109619) - See Projects
 
 ## Learning:  
   - I expect to finish PRSM 2 certification as time allows
@@ -57,17 +58,19 @@ I'm Jack Forden, I have over 7 years of expertise in **data science**, **AI**, *
 - 🛠️ **Low-Level System Design**: Process scheduling, memory management, assembly programming, RTOS development  
 - 📊 **Statistical Modeling & Data Science**: Causal inference, A/B testing, hypothesis testing, biostatistics, SQL, R, TensorFlow
 - 🤖 **AI & Machine Learning**: LLM evaluation and deployment, NLP, AI decision support systems, open-source LLM integration  
+- 🔐 **Security & Internet Measurement**: Passive external reconnaissance, HTTP header and DNS configuration analysis (SPF, DMARC, DKIM, DNSSEC), vulnerability-exposure and patch-adoption measurement, ethical non-intrusive scanning
 - 📚 **Education Technology**: Developing frameworks for student engagement and retention, gamification in education
 
 ### Projects
 
 - **TA-Bot**: Designed and deployed one of the most flexible assessment systems using Flask, Docker, SQL, SQLAlchemy, Azure Authentication, and React. This has been my main focus as I develop frameworks designed to increase retention rates, and thus tuition. To date, TA-Bot has reduced withdrawal rates in introductory courses at Marquette University by 50%, leading to historic retention rates and an additional $3,000,000 in tuition staying in the CS department. I have published multiple works on this, see publications.  [TA-Bot](https://github.com/JForden/AutoTA)
 
+- **PHP2Shell Patch-Adoption Study** *(in progress)*: A passive measurement study of how fast U.S. state, county, city, and tribal government websites patch PHP2Shell, the pair of critical unauthenticated PHP remote-code-execution flaws disclosed in October 2026. A daily, rate-limited crawler sends one ordinary GET request per domain, classifies each site from its advertised PHP version (patched, vulnerable, end-of-life, or hidden), and records time-to-patch per domain. No exploits or intrusive probes are ever sent.
+
 - Co-developed the first **RISC-V "Mini" OS** under the leadership of [Alex Gebhard](https://github.com/a1g3) for consumer hardware [Github](https://github.com/JForden/riscv-xinu) Read more about it [SIGCSE 2024](https://dl.acm.org/doi/10.1145/3626252.3630959)
-- I developed a RISC-V port of the MiniJava Compiler published by [Appel and Jens Palsberg](https://www.amazon.com/Modern-Compiler-Implementation-Andrew-Appel/dp/052182060X/ref=pd_lpo_sccl_3/142-7048636-9321833?pd_rd_w=btdr6&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=P2W5KH3DBENNKM59H8G5&pd_rd_wg=0vDv7&pd_rd_r=a85c40af-acbb-4e51-82a0-2c36220da8c7&pd_rd_i=052182060X&psc=1). While I would love to share this GitHub repository publicly, I am currently the instructor for Marquette COSC 4400 Compiler Construction, where I am leading students in solving this exact issue! [Publication to appear in SPLASH - JENSFEST](https://2024.splashcon.org/home/jensfest-2024).
+- I developed a RISC-V port of the MiniJava Compiler published by [Appel and Jens Palsberg](https://www.amazon.com/Modern-Compiler-Implementation-Andrew-Appel/dp/052182060X). While I would love to share this GitHub repository publicly, I am currently the instructor for Marquette COSC 4400 Compiler Construction, where I am leading students in solving this exact issue! [Publication to appear in SPLASH - JENSFEST](https://2024.splashcon.org/home/jensfest-2024).
 
 - Locally run and hosted AI-Assessment frameworks [ Publication to appear in FIE](https://2024.fie-conference.org/)
-
 
 
 #### Side Projects - Unrelated to Research Objectives
@@ -106,8 +109,6 @@ The website has 5000 monthly visitors(as of 2025), has processed over 3.5 millio
 - **Jack Forden**, Alexander Gebhard, and Dennis Brylow. 2023. *Experiences with TA-Bot in CS1*. In Proceedings of the ACM Conference on Global Computing Education Vol 1 (CompEd 2023). Association for Computing Machinery, New York, NY, USA, 57–63. [https://doi.org/10.1145/3576882.3617930](https://doi.org/10.1145/3576882.3617930)
 
 - **Jack Forden**, Alexander Gebhard, and Dennis Brylow. 2023. *Dynamic Rate Limiting with TA-Bot in CS1*. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE 2023). Association for Computing Machinery, New York, NY, USA, 1330. [https://doi.org/10.1145/3545947.3576276](https://doi.org/10.1145/3545947.3576276)
-
-
 
 
 ---
@@ -154,4 +155,3 @@ The website has 5000 monthly visitors(as of 2025), has processed over 3.5 millio
 
 #### Workshop Leader | *Professional Development for Computer Science Educators* (2023)
 - Led workshops to enhance teaching strategies for computer science educators.
-
